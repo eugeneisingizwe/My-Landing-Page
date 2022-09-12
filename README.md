@@ -59,6 +59,8 @@ As a client, I want the landing page to have a polished and accessible UI.
 
 ## Link To Deployed Webpage
 
+https://eugeneisingizwe.github.io/My-Landing-Page/
+
 ## Screen Shot
 ![This is basic webpage buit using HTML and CSS".](./Main/assets/image/webpage.png)
 
